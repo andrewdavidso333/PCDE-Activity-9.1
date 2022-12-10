@@ -1,3 +1,3 @@
-# Sample Project Page
+# Repository for Activities 9.1 and 9.2
 
-This page is a view of the PCDE 9.1 Activity on 12/8/2022.
+This is a placeholder for more content...
